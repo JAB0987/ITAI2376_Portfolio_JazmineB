@@ -20,19 +20,19 @@ GitHub Repository: https://github.com/JazmineBrown/ITAI2376-AI-Journey-JazmineBr
 
 ---
 ## Repository Structure
-This repository is organized into folders for each module, plus additional folders for resources and the final presentation. Below is the structure with links to key files:
+This repository is organized into folders for each module, plus additional folders for resources and the final presentation. Below is the structure with key files:
 
 | Folder | Description | Key Files |
 |--------|-------------|-----------|
-| **[Module_2_DeepLearningTools](./Module_2_DeepLearningTools)** | JAX vs. NumPy comparison, VGG16 image classification lab | [JAX_vs_NumPy.md](./Module_2_DeepLearningTools/JAX_vs_NumPy.md), [VGG16_Lab_Reflection.md](./Module_2_DeepLearningTools/VGG16_Lab_Reflection.md) |
-| **[Module_3_NeuralNetworkBasics](./Module_3_NeuralNetworkBasics)** | Neural Network Zoo presentation, PyTorch labs (tensors, MLP, text processing) | [Neural_Zoo_Presentation.md](./Module_3_NeuralNetworkBasics/Neural_Zoo_Presentation.md), [Lab_01_PyTorch.md](./Module_3_NeuralNetworkBasics/Lab_01_PyTorch.md), [Lab_02_MLP_FashionMNIST.md](./Module_3_NeuralNetworkBasics/Lab_02_MLP_FashionMNIST.md), [Lab_03_Text_NN.md](./Module_3_NeuralNetworkBasics/Lab_03_Text_NN.md) |
-| **[Module_4_CNN](./Module_4_CNN)** | MNIST CNN lab, backpropagation presentation | [CNN_MNIST_Lab.md](./Module_4_CNN/CNN_MNIST_Lab.md), [Backpropagation_Presentation.md](./Module_4_CNN/Backpropagation_Presentation.md), [mnist_cnn.py](./Module_4_CNN/mnist_cnn.py) |
-| **[Module_5_SequenceModeling](./Module_5_SequenceModeling)** | RNN for Amazon reviews, *Arrival* NLP analysis | [RNN_Amazon_Reviews_Lab.md](./Module_5_SequenceModeling/RNN_Amazon_Reviews_Lab.md), [Arrival_NLP_Assignment.md](./Module_5_SequenceModeling/Arrival_NLP_Assignment.md), [rnn_model.py](./Module_5_SequenceModeling/rnn_model.py) |
-| **[Module_6_Transformers](./Module_6_Transformers)** | Fine-tuning DistilBERT for sentiment analysis | [BERT_Sentiment_Lab.md](./Module_6_Transformers/BERT_Sentiment_Lab.md), [bert_finetune.py](./Module_6_Transformers/bert_finetune.py) |
-| **[Module_9_GenerativeAI](./Module_9_GenerativeAI)** | Diffusion Models with U-Net for Fashion-MNIST | [Diffusion_Models_Summary.md](./Module_9_GenerativeAI/Diffusion_Models_Summary.md), [unet_diffusion.py](./Module_9_GenerativeAI/unet_diffusion.py) |
-| **[Module_11_AgentPlanning](./Module_11_AgentPlanning)** | Placeholder for agent planning work (TBD) | (To be updated) |
-| **[Resources](./Resources)** | External articles, videos, and documentation | [Resources.md](./Resources/Resources.md) |
-| **[Presentation](./Presentation)** | Final PowerPoint presentation (PDF) | [Pf_JazmineBrown_ITAI2376.pdf](./Presentation/Pf_JazmineBrown_ITAI2376.pdf) |
+| Module_2_DeepLearningTools | JAX vs. NumPy comparison, VGG16 image classification lab | JAX_vs_NumPy.md, VGG16_Lab_Reflection.md |
+| Module_3_NeuralNetworkBasics | Neural Network Zoo presentation, PyTorch labs (tensors, MLP, text processing) | Neural_Zoo_Presentation.md, Lab_01_PyTorch.md, Lab_02_MLP_FashionMNIST.md, Lab_03_Text_NN.md |
+| Module_4_CNN | MNIST CNN lab, backpropagation presentation | CNN_MNIST_Lab.md, Backpropagation_Presentation.md, mnist_cnn.py |
+| Module_5_SequenceModeling | RNN for Amazon reviews, *Arrival* NLP analysis | RNN_Amazon_Reviews_Lab.md, Arrival_NLP_Assignment.md, rnn_model.py |
+| Module_6_Transformers | Fine-tuning DistilBERT for sentiment analysis | BERT_Sentiment_Lab.md, bert_finetune.py |
+| Module_9_GenerativeAI | Diffusion Models with U-Net for Fashion-MNIST | Diffusion_Models_Summary.md, unet_diffusion.py |
+| Module_11_AgentPlanning | Placeholder for agent planning work (TBD) | (To be updated) |
+| Resources | External articles, videos, and documentation | Resources.md |
+| Presentation | Final PowerPoint presentation (PDF) | Pf_JazmineBrown_ITAI2376.pdf |
 
 ## Modules & Topics Covered
 The table below summarizes the modules, key topics, tools used, and highlights from my work:
@@ -45,6 +45,10 @@ The table below summarizes the modules, key topics, tools used, and highlights f
 | M5 | NLP & Linguistic Relativity | PyTorch, GloVe, AWS SageMaker | Built RNN for Amazon review sentiment (79.01% accuracy). Analyzed *Arrival* for NLP challenges (e.g., ambiguity). Mastered tokenization, embeddings, sequential processing. |
 | M6 | Transformers | Hugging Face Transformers, PyTorch | Fine-tuned DistilBERT for sentiment analysis (~89% accuracy). Managed memory by freezing layers. Learned transfer learning’s efficiency for NLP. |
 | M9 | Generative AI | PyTorch, CLIP | Trained U-Net diffusion model for Fashion-MNIST (MSE loss ~0.105). Evaluated outputs with CLIP scores. Proposed CLIP-guided improvements for image quality. |
+
+
+
+
 
 ---
 
