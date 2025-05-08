@@ -29,7 +29,7 @@ This repository is organized into folders for each module, plus additional folde
 | Module_5_SequenceModeling | RNN for Amazon reviews, *Arrival* NLP analysis | RNN_Amazon_Reviews_Lab.md, Arrival_NLP_Assignment.md, rnn_model.py |
 | Module_6_Transformers | Fine-tuning DistilBERT for sentiment analysis | BERT_Sentiment_Lab.md, bert_finetune.py |
 | Module_9_GenerativeAI | Diffusion Models with U-Net for Fashion-MNIST | Diffusion_Models_Summary.md, unet_diffusion.py |
-| Module_11_AgentPlanning | Placeholder for agent planning work (TBD) | (To be updated) |
+| Module_11_AgentPlanning | Ai Research Assistant| FN_Report, FN_Code, FN_Demo |
 | Resources | External articles, videos, and documentation | Resources.md |
 | Presentation | Final PowerPoint presentation (PDF) | Pf_JazmineBrown_ITAI2376.pdf |
 
