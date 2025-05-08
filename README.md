@@ -3,8 +3,7 @@
 
 Welcome to my AI learning journey for Deep Learning (ITAI2376)! This GitHub repository showcases my assignments, labs, code, and reflections from the course, demonstrating my growth in building and understanding deep learning models. Through hands-on projects and creative assignments, I explored neural networks, computer vision, NLP, Transformers, and generative AI, gaining practical skills in PyTorch, TensorFlow, and more.
 
-View my Course Presentation (PDF)
-GitHub Repository: https://github.com/JazmineBrown/ITAI2376-AI-Journey-JazmineBrown
+
 ---
 
 ##  Portfolio Highlights
